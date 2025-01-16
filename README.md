@@ -1,6 +1,6 @@
 # Analyzing Student Programmer Attention in Code Summarization through Eye-Tracking Data
 
-This repository contains the dataset, models, and code used in the research paper **"A Tale of Two Comprehensions? Analyzing Student Programmer Attention during Code Summarization"** by Z Karas, A Bansal, Y Zhang, T Li, C McMillan, and Y Huang. The goal of this research is to explore the role of visual behaviors in code summarization quality through eye-tracking analysis (including fixation counts, durations, and attention switches) and employ predictive modeling techniques to understand what features aid in predicting quality summaries.
+The goal of this research is to explore the role of visual behaviors in code summarization quality through eye-tracking analysis (including fixation counts, durations, and attention switches) and employ predictive modeling techniques to understand what features aid in predicting quality summaries.
 
 ## Repository Contents
 
@@ -29,3 +29,4 @@ This repository contains the dataset, models, and code used in the research pape
     - `fixationCountAndDuration.py`, `model_map.pkl`, `excludedParticipants.csv`, `Finaldata.csv`, etc.
 
 
+This repository contains the dataset, models, and code used in the research paper **"A Tale of Two Comprehensions? Analyzing Student Programmer Attention during Code Summarization"** by Z Karas, A Bansal, Y Zhang, T Li, C McMillan, and Y Huang. 
